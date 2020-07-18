@@ -1,0 +1,27 @@
+/*
+COLORS:
+
+Light green: $color-primary-light
+Medium green: $color-primary
+Dark green: $color-primary-dark
+
+*/
+
+@import "abstracts/functions";
+@import "abstracts/mixins";
+@import "abstracts/variables";
+@import "base/base";
+@import "base/animations";
+@import "base/typography";
+@import "base/utilities";
+@import "pages/home";
+@import "components/btn";
+@import "layout/header";
+@import "layout/grid";
+@import "components/composition";
+@import "components/feature-box";
+@import "components/card";
+@import "components/story";
+@import "components/bg-video";
+@import "layout/navigation";
+@import "components/popup";
